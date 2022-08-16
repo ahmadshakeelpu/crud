@@ -26,6 +26,7 @@
         <activity
             android:name=".ViewCourses"></activity>
         <activity
+
             android:name=".UpdateCourseActivity"></activity>
 
     </application>
